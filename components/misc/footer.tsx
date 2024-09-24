@@ -13,13 +13,13 @@ const Footer = () => {
               href="#"
               className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
             >
-              Read Documentation
+              Ler Documentação
             </a>
             <a
-              href={`https://github.com/matthewwong525/linked-blog-starter`}
+              href={`https://github.com/israaboy/plug-docs`}
               className="mx-3 font-bold hover:underline"
             >
-              View on GitHub
+              Ver no GitHub
             </a>
           </div>
         </div>
