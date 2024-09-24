@@ -1,0 +1,1 @@
+Os "No Users" são beneficiários que não utilizam o plano de forma efetiva, ao contrato dos [[Users]].

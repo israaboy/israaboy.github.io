@@ -1,0 +1,1 @@
+Sinistralidade é a relação entre o valor que o plano de saúde gasta com atendimentos e o que arrecada em mensalidades. Quanto maior a sinistralidade, mais o plano gasta com seus beneficiários.

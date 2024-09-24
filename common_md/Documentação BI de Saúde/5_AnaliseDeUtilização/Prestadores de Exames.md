@@ -1,0 +1,1 @@
+Prestadores de Exames podem ser Hospitais, clinicas gerais ou pessoais que realizam exames médicos.

@@ -1,0 +1,1 @@
+"Exames Complexos" envolvem técnicas mais sofisticadas, equipamentos avançados e análise detalhada, como tomografias, ressonâncias magnéticas ou exames genéticos. A complexidade está relacionada à tecnologia e ao nível de especialização necessários. Sendo assim, o custo também é elevado.

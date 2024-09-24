@@ -1,0 +1,1 @@
+**"Procedimentos"** são as ações específicas realizadas durante [[Eventos]], como exames, cirurgias, ou tratamentos. Os procedimentos são as etapas ou atividades realizadas para atender o evento médico.

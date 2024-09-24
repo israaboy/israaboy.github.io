@@ -1,0 +1,2 @@
+
+O **valor ANS** é um valor estabelecido pela Agência Nacional de Saúde Suplementar (ANS), responsável por regular os planos de saúde no Brasil. Ele pode se referir ao limite de reajuste anual que as operadoras podem aplicar em planos individuais ou familiares, ao fator de ajuste utilizado para calcular esses reajustes, ou aos valores de referência para procedimentos médicos. Em resumo, o valor ANS atua como uma diretriz financeira que regula a precificação, reajustes e cobertura dos serviços oferecidos pelos planos de saúde.

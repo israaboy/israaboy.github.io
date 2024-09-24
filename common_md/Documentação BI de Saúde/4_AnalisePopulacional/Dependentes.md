@@ -1,0 +1,1 @@
+"Dependentes" são pessoas vinculadas ao titular de um plano de saúde ou seguro, que têm direito a usufruir das coberturas contratadas. Geralmente, dependentes são cônjuges, filhos, ou outros parentes diretos que o titular inclua no contrato.

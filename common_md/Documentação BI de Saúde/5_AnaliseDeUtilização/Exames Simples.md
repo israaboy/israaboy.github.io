@@ -1,0 +1,1 @@
+"Exames Simples" são procedimentos médicos de fácil execução e baixa complexidade, como exames de sangue ou raio-X. O valor também geralmente é baixo.

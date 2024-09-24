@@ -1,0 +1,1 @@
+"Titulares" são os principais contratantes de um plano de saúde ou seguro. Eles são os responsáveis pelo pagamento das mensalidades e pela definição de quem serão os dependentes incluídos na apólice ou no contrato do plano.

@@ -1,0 +1,1 @@
+**"Eventos"** são situações de atendimento médico, como uma consulta, uma internação ou uma cirurgia, que envolvem algum tipo de cuidado ou intervenção.

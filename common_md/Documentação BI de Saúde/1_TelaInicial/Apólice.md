@@ -1,0 +1,1 @@
+"Apólice" é o documento oficial que formaliza o contrato de um seguro. Nele, estão descritos todos os detalhes do acordo entre a seguradora e o segurado, como as coberturas, prêmios (valores pagos pelo segurado), vigência, limites de indenização e condições para acionar o seguro. É a prova do compromisso assumido por ambas as partes.

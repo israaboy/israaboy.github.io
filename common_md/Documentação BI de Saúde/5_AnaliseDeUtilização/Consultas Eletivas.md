@@ -1,0 +1,1 @@
+"Consultas Eletivas" são atendimentos médicos previamente agendados, sem caráter de urgência ou emergência. Elas são realizadas de forma programada, geralmente para acompanhamento regular de saúde, avaliação de sintomas ou tratamento de condições crônicas.

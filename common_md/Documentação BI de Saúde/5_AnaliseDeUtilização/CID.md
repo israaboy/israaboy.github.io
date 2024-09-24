@@ -1,0 +1,1 @@
+O "**CID**" (Classificação Internacional de Doenças) é um sistema padronizado da Organização Mundial da Saúde (OMS) utilizado para categorizar e codificar doenças, condições de saúde e diagnósticos médicos. Ele facilita a comunicação entre profissionais de saúde e a gestão de informações de saúde pública.

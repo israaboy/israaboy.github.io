@@ -1,0 +1,1 @@
+Os chamados "Users" são os beneficiários do plano que efetivamente utilizam o plano, vai em consultas, fazem exames e outras coisas que ativam o plano de saúde deles.
